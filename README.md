@@ -1,10 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=36&pause=1000&color=F7D01D&center=%EA%B1%B0%EC%A7%93&vCenter=%EA%B1%B0%EC%A7%93&repeat=%EC%A7%84%EC%8B%A4&random=%EA%B1%B0%EC%A7%93&width=435&height=60&lines=Welcome+My+Github%E2%9C%A8)](https://git.io/typing-svg)
 
 
-### Hi there 
-https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_light-skin-tone_1f44b-1f3fb_1f3fb.png
+### Hi there 😁
 
--내가 할 수 있는...
+
 
 
 
