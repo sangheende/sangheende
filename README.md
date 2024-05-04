@@ -2,13 +2,13 @@
 
 
 ### Hi there 😁
-##소통을 통해 가치를 전달하는 퍼블리셔 송상희입니다.
+## 소통을 통해 가치를 전달하는 퍼블리셔 송상희입니다.
 
 
-💻 TECH
-https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
-🖼️
-📖
+# 💻 TECH
+![https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white]
+# 🖼️
+# 📖
 
 
 
